@@ -1,0 +1,2 @@
+Git branching allows developers to create separate lines of development within a project.
+It helps work on new features, bug fixes, or experiments independently without affecting the main codebase.
